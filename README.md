@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandupama Gunasekara</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">A beginner developer from Sri lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandupamagunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="sandupamagunasekara" /> </p>
 
